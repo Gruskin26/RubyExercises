@@ -1,1 +1,7 @@
 This repository is just a few basic ruby exercises that I am hoping to build up to teach myself some of the basics of ruby.
+
+fib.rb prompts for a number, and then prints that many numbers in the Fibonnaci Sequence.
+
+solfege.rb is based on a challenge posted at the link below. It takes in a note of the musical scale (Assuming sharps and naturals) to use as the tonic and a note of the solfege scale, and find the corresponding note in the scale that is based on the tonic.
+
+https://www.reddit.com/r/dailyprogrammer/comments/7hhyin/20171204_challenge_343_easy_major_scales/?ref=share&ref_source=link
